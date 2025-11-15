@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Flora AI: Plant Care Assistant",
+  "description": "An AI-powered assistant to help you care for your plants. Features include a plant database, personal collection tracking, watering reminders, plant identification via photo upload, health diagnostics, and a library of care tips. Supports English, Spanish, and Russian.",
+  "requestFramePermissions": []
+}
